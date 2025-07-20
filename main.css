@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+    padding: 30px;
+}
+
+h1{
+    width: max-content;
+    border: 1px solid;
+    height: max-content;
+    padding: 10px;
+    margin: 0px;
+}
+
+.para{
+    width:max-content;
+    height:min-content;
+    border : 2px dotted;
+    padding : 20px;
+    margin : 10px;
+}
+
+.volume{
+    width:min-content;
+    height: min-content;
+    border:1px solid;
+    padding:2px;
+}
+
+.box{
+    border:2px solid;
+    padding: 5px;
+    margin: 2px;
+}
+
+.min{
+    width: min-content;
+}
+
+.max{
+    width: max-content;
+}
